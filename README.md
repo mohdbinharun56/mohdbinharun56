@@ -11,7 +11,7 @@ I am currently a student at the American International University-Bangladesh (AI
 
 ### 🛠️ Skills and Tools 
 NEST JS / REACT /
-JS / HTML / CSS / PHP / JAVA / CPP / C /
+JS / TS / HTML / CSS / PHP / JAVA / CPP / C /
 PostgreSQL / MySQL / MSSQL /
 
 
