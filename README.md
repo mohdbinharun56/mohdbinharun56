@@ -10,7 +10,7 @@ I am currently a student at the American International University-Bangladesh (AI
 - 📫 reach me: binharun256@gmial.com
 
 ### 🛠️ Skills and Tools 
-NEST JS / REACT /
+NEST JS /
 JS / TS / HTML / CSS / PHP / JAVA / CPP / C /
 PostgreSQL / MySQL / MSSQL /
 
