@@ -6,11 +6,10 @@ I am currently a student at the American International University-Bangladesh (AI
 
 - 🎓 Education: Bachelor of science in Compute Science 4th year 
 - 🔭 working on github 
-- 🌱 learning React 
 - 📫 reach me: binharun256@gmial.com
 
 ### 🛠️ Skills and Tools 
-NEST JS /
+NODEJS / NEST JS / REACT JS / 
 JS / TS / HTML / CSS / PHP / JAVA / CPP / C /
 PostgreSQL / MySQL / MSSQL /
 
