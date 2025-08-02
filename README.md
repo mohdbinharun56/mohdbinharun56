@@ -4,7 +4,7 @@
 ### 🚀 About me
 I am currently a student at the American International University-Bangladesh (AIUB), I am passionate and diving into the web development.
 
-- 🎓 Education: Bachelor of science in Compute Science 4th year 
+- 🎓 Education: Bachelor of science in Compute Science 
 - 🔭 working on github 
 - 📫 reach me: binharun256@gmial.com
 
